@@ -1,0 +1,18 @@
+{
+  "item.mptmod.amber": "Amber",
+  "item.mptmod.amber_raw": "Raw Amber",
+  "itemGroup.mpt_tab": "MPT mod",
+  "block.mptmod.amber_block": "Amber Block",
+  "block.mptmod.amber_ore": "Amber Ore",
+  "block.mptmod.deepslate_amber_ore": "Deepslate Amber Ore",
+
+  "item.mptmod.amber_helmet": "Amber Helmet",
+  "item.mptmod.amber_chestplate": "Amber Chestplate",
+  "item.mptmod.amber_legging": "Amber Leggings",
+  "item.mptmod.amber_boots": "Amber Boots",
+
+  "item.mptmod.amber_axe": "Amber Axe",
+  "item.mptmod.amber_sword": "Amber Sword",
+  "item.mptmod.amber_pickaxe": "Amber Pickaxe",
+  "item.mptmod.amber_shovel": "Amber Shovel"
+}
